@@ -1943,6 +1943,14 @@ void FurnaceGUI::drawMacros(std::vector<FurnaceGUIMacroDesc>& macros, FurnaceGUI
               ImGui::SameLine();
             }
             BUTTON_TO_SET_PROPS(i);
+            if (i.macro->delay > 0)  {
+              ImGui::SameLine();
+              ImGui::Text("+%d",i.macro->delay);
+            }
+            if (i.macro->speed > 1)  {
+              ImGui::SameLine();
+              ImGui::Text("×%d",i.macro->speed);
+            }
             if (i.modeName!=NULL) {
               bool modeVal=i.macro->mode;
               String modeName=fmt::sprintf("%s##IMacroMode",i.modeName);
