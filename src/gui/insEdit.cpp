@@ -1854,6 +1854,14 @@ void FurnaceGUI::drawMacros(std::vector<FurnaceGUIMacroDesc>& macros, FurnaceGUI
             BUTTON_TO_SET_MODE(ImGui::Button);
             ImGui::SameLine();
             BUTTON_TO_SET_PROPS(i);
+            if (i.macro->delay > 0)  {
+              ImGui::SameLine();
+              ImGui::Text("+%d",i.macro->delay);
+            }
+            if (i.macro->speed > 1)  {
+              ImGui::SameLine();
+              ImGui::Text("×%d",i.macro->speed);
+            }
             // do not change this!
             // anything other than a checkbox will look ugly!
             // if you really need more than two macro modes please tell me.
