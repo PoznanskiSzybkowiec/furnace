@@ -1571,7 +1571,7 @@ msgstr "Niskie"
 
 #: src/engine/sysDef.cpp:955
 msgid "Mid"
-msgstr ""
+msgstr "Średnie"
 
 #: src/engine/sysDef.cpp:955 src/gui/settings.cpp:113 src/gui/settings.cpp:186
 #: src/gui/settings.cpp:3918
@@ -2477,7 +2477,7 @@ msgstr "układ OPL z włączonym trybem perkusji."
 #: src/engine/sysDef.cpp:1407 src/engine/sysDef.cpp:1419
 #: src/engine/sysDef.cpp:1693
 msgid "Kick/FM 7"
-msgstr "Stopa/FM7"
+msgstr "Bęben basowy/FM 7"
 
 #: src/engine/sysDef.cpp:1417
 msgid "Yamaha YM3812 (OPL2) with drums"
@@ -2497,7 +2497,7 @@ msgstr "układ OPL3 z włączonym trybem perkusji."
 
 #: src/engine/sysDef.cpp:1431 src/engine/sysDef.cpp:1631
 msgid "Kick/FM 16"
-msgstr "Stopa/FM16"
+msgstr "Bęben basowy/FM 16"
 
 #: src/engine/sysDef.cpp:1441
 msgid "Yamaha YM2610 (OPNB)"
@@ -2552,7 +2552,7 @@ msgstr ""
 
 #: src/engine/sysDef.cpp:1479
 msgid "Yamaha YM2413 (OPLL) with drums"
-msgstr "=Yamaha YM2413 (OPLL) (tryb perkusji)"
+msgstr "Yamaha YM2413 (OPLL) (tryb perkusji)"
 
 #: src/engine/sysDef.cpp:1480
 msgid "the OPLL chips but with drums mode turned on."
@@ -5965,7 +5965,7 @@ msgstr "Ostatni używany kanał"
 
 #: src/gui/sysConf.cpp:714
 msgid "Hard reset envelope:"
-msgstr "OTwardy reset obwiedni:"
+msgstr "Twardy reset obwiedni:"
 
 #: src/gui/sysConf.cpp:716 src/gui/insEdit.cpp:50 src/gui/insEdit.cpp:1920
 #: src/gui/insEdit.cpp:6955 src/gui/insEdit.cpp:7481
@@ -5980,7 +5980,7 @@ msgstr "Opadanie"
 #: src/gui/sysConf.cpp:726 src/gui/insEdit.cpp:50 src/gui/insEdit.cpp:1929
 #: src/gui/insEdit.cpp:6957 src/gui/insEdit.cpp:7483
 msgid "Sustain"
-msgstr "Poodtrzymanie"
+msgstr "Podtrzymanie"
 
 #: src/gui/sysConf.cpp:731 src/gui/settings.cpp:3934 src/gui/insEdit.cpp:50
 #: src/gui/insEdit.cpp:604 src/gui/insEdit.cpp:1983 src/gui/insEdit.cpp:6958
