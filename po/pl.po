@@ -1571,7 +1571,7 @@ msgstr "Niskie"
 
 #: src/engine/sysDef.cpp:955
 msgid "Mid"
-msgstr "Srednie"
+msgstr "Średnie"
 
 #: src/engine/sysDef.cpp:955 src/gui/settings.cpp:138 src/gui/settings.cpp:211
 #: src/gui/settings.cpp:3975
@@ -2477,7 +2477,7 @@ msgstr "układ OPL z włączonym trybem perkusji."
 #: src/engine/sysDef.cpp:1407 src/engine/sysDef.cpp:1419
 #: src/engine/sysDef.cpp:1693
 msgid "Kick/FM 7"
-msgstr "Stopa/FM7"
+msgstr "Bęben basowy/FM 7"
 
 #: src/engine/sysDef.cpp:1417
 msgid "Yamaha YM3812 (OPL2) with drums"
@@ -2497,7 +2497,7 @@ msgstr "układ OPL3 z włączonym trybem perkusji."
 
 #: src/engine/sysDef.cpp:1431 src/engine/sysDef.cpp:1631
 msgid "Kick/FM 16"
-msgstr "Stopa/FM16"
+msgstr "Bęben basowy/FM 16"
 
 #: src/engine/sysDef.cpp:1441
 msgid "Yamaha YM2610 (OPNB)"
